@@ -1,15 +1,15 @@
-# ShiMei JingJiBao
+# 7M sports
 
-ShiMei JingJiBao competitive treasure is an e-sports accessories shopping mall. We launched the esports peripherals accessories, high degree of reduction, excellent workmanship, details in place, wear our accessories to become esports talent.
+7M sports is a shopping mall for purchasing sports equipment and clothing. Our app is dedicated to promoting professional sports equipment and sportswear, so that people can efficiently and high-quality buy the sports equipment and sportswear they need in their daily life.
 
-Our app is dedicated to promoting exquisite esports peripherals, so that people can buy the esports peripherals they need in daily life with high efficiency and high quality.
+Our app shows a full range of sports equipment, including basketball apparel, running fitness apparel, running Fanny pack, sports protective gear and other sports equipment. These categories of complete sports equipment can meet the user's selection and procurement.
 
-Our app shows a complete range of esports peripheral accessories, including esports rings, esports brooches, badges, esports bracelets, bracelets, esports peripheral accessories such as mobile phone shells. These categories complete esports peripherals can meet the user's selection and procurement.
+Our app has classified these sports equipment in great detail, which helps users to quickly find the sports equipment and sportswear they want to buy.
 
-Our app classifies these accessories in detail, which helps users quickly find the esports accessories they want to buy.
+Our app also has the function of commodity collection. Your favorite sports equipment can be collected into the collection list for your next order.
 
-Our app also has the function of goods collection. Your favorite esports peripheral accessories can be collected to the collection list, which is convenient for you to place an order next time. Our app makes a detailed and careful introduction to each product, so that you can fully understand these products and find your favorite esports accessories, so that you can easily purchase and place an order.
+Our app gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite sports equipment and sportswear, and make it convenient for you to purchase and place orders.
 
-ShiMei JingJiBao let the most exquisite esports jewelry decoration of your life!
+Wear the most professional sports equipment to enjoy the fun of sports!
 
-If you have any questions, please contact us as follows :zxj19921014@icloud.com
+If you have any questions, please contact us as follows :chu83861niao@163.com
