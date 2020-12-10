@@ -1,17 +1,15 @@
-# TiYuJiuDingDaRen
+# TiYuLeiSudaShi
 
-TiYuJiuDingDaRen is an APP that learns various extreme sports strategies, records sports training, and purchases extreme racing sports equipment. It is dedicated to promoting extreme racing sports equipment, so that people can buy professional extreme sports equipment in daily life. At the same time can learn a variety of extreme sports skills, but also can easily record the daily exercise volume and training results.
+TiYuLeiSudaShi is committed to promoting racing, so that people can efficiently buy professional racing equipment in their daily life, and can easily record the exercise training every day.
 
-- Our app shows a full range of extreme racing equipment, including short track speed skating equipment, roller skating equipment, skateboarding equipment, cycling equipment, skiing equipment and other extreme racing equipment. These categories of complete extreme racing equipment can meet the user's choice and purchase.
+- Our app shows a full range of racing sports equipment, including cycling equipment, sprinting equipment, short track speed skating equipment, skiing equipment, sports gear and other racing sports equipment. These kinds of complete racing equipment can meet the user's choice and purchase.
 
-- Our APP introduces each product in detail, enabling you to fully understand these products, find your favorite extreme racing sports equipment, and facilitate you to purchase and place orders.
+- Our app has classified these racing equipment in great detail, which helps users to quickly find the racing equipment they want to buy.
 
-- Our app also has the function of commodity collection. Your favorite extreme sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
+- Our APP introduces each product in detail, enabling you to fully understand these products, find your favorite racing sports equipment, and facilitate you to purchase and place orders.
 
-- Our APP also provides the introduction of various extreme sports skills. We provide the introduction of various extreme racing skills and rules, so that you can have a better understanding of extreme racing and like to challenge yourself more.
+- Our app can also record the exercise training every day, the amount of exercise training every day and the progress every day, so as to motivate ourselves to keep training hard and become a sports master.
 
-- Our app can also record daily exercise training, so that you can easily record the amount of exercise and your own gains, record your progress every time, and each record can encourage you to continue to work hard.
-
-Extreme racing, surpass yourself, become a sports master
+Professional racing equipment, let you never stop!
 
 If you have any questions, please contact us as follows :wangj19880527@icloud.com
