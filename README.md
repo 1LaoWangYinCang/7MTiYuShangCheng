@@ -1,6 +1,6 @@
-# TiYuLeiSudaShi
+# TiYuTouTiaoDaRen
 
-TiYuLeiSudaShi is committed to promoting racing, so that people can efficiently buy professional racing equipment in their daily life, and can easily record the exercise training every day.
+TiYuTouTiaoDaRen is committed to promoting racing, so that people can efficiently buy professional racing equipment in their daily life, and can easily record the exercise training every day.
 
 - Our app shows a full range of racing sports equipment, including cycling equipment, sprinting equipment, short track speed skating equipment, skiing equipment, sports gear and other racing sports equipment. These kinds of complete racing equipment can meet the user's choice and purchase.
 
