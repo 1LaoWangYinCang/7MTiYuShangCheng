@@ -1,15 +1,11 @@
 # TiYuTouTiaoDaRen
 
-TiYuTouTiaoDaRen is committed to promoting racing, so that people can efficiently buy professional racing equipment in their daily life, and can easily record the exercise training every day.
+TiYuTouTiaoDaRen are working to promote swimming and water sports so that people can buy professional swimming equipment in their daily lives and easily add sports records.
 
-- Our app shows a full range of racing sports equipment, including cycling equipment, sprinting equipment, short track speed skating equipment, skiing equipment, sports gear and other racing sports equipment. These kinds of complete racing equipment can meet the user's choice and purchase.
+Our app shows a full range of swimming sports equipment, including swimsuits, swimming caps, goggles, nose plugs, swim fins and other swimming water sports equipment. These categories of complete swimming sports equipment can meet the user's selection and procurement.
 
-- Our app has classified these racing equipment in great detail, which helps users to quickly find the racing equipment they want to buy.
+Our app also has the function of commodity collection. Your favorite swimming sports equipment can be collected into the collection list, which is convenient for you to browse and place orders. At the same time, you can also add a daily exercise record, you can record the daily swimming exercise, record your own persistence and progress.
 
-- Our APP introduces each product in detail, enabling you to fully understand these products, find your favorite racing sports equipment, and facilitate you to purchase and place orders.
+Buy swimming gear and record water sports!
 
-- Our app can also record the exercise training every day, the amount of exercise training every day and the progress every day, so as to motivate ourselves to keep training hard and become a sports master.
-
-Professional racing equipment, let you never stop!
-
-If you have any questions, please contact us as follows :hzy19841214@icloud.com
+If you have any questions, please contact us as follows :wxw19830410@icloud.com
