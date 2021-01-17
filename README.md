@@ -1,11 +1,13 @@
-# TiYuTouTiaoDaRen
+# Digital Hotspots Info Wall
 
-TiYuTouTiaoDaRen are working to promote swimming and water sports so that people can buy professional swimming equipment in their daily lives and easily add sports records.
+Digital Hotspots Info Wall  enables people to conveniently and efficiently understand digital currency market, currency circle news, real-time news, industry information and other information within the circle.
 
-Our app shows a full range of swimming sports equipment, including swimsuits, swimming caps, goggles, nose plugs, swim fins and other swimming water sports equipment. These categories of complete swimming sports equipment can meet the user's selection and procurement.
+Our app allows people to put forward their own opinions on hot news information, share news information, collect valuable news and praise articles you think are good.
 
-Our app also has the function of commodity collection. Your favorite swimming sports equipment can be collected into the collection list, which is convenient for you to browse and place orders. At the same time, you can also add a daily exercise record, you can record the daily swimming exercise, record your own persistence and progress.
+Our app provides market information of various digital currencies, so that you can better understand the market changes.
 
-Buy swimming gear and record water sports!
+Our app also provides lecture reservation function, which makes it easy for people to book lectures.
 
-If you have any questions, please contact us as follows :wxw19830410@icloud.com
+Our app also allows people to express their opinions in the topic circle and share their ideas with others.
+
+If you have any questions, please contact us as follows :slethiezskyrx@hotmail.com
